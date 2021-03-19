@@ -4,4 +4,4 @@ The codes and relevant data for "The self-organization of microbial networks und
 |--phylo_habitat_network
    |--Rdata: There are processing files with Rdata format.
    |--Rfunction: There are R functions for analyses.
-   |--
+   |--Optima.data for the optima niche calculations
