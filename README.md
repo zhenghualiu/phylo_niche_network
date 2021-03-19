@@ -5,7 +5,11 @@ Rdata: Processing files with Rdata format.
    
 Rfunction: R functions for analyses.
    
-optima.cal: Data for the optima niche calculations
+optima.cal: Data for the optima niche calculations.
+
+otutable: OTU tables.
+
+phylo.tree: Phylogenetic trees.
 
 
 
