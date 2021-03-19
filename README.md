@@ -11,5 +11,4 @@ otutable: OTU tables.
 
 phylo.tree: Phylogenetic trees.
 
-
-
+simulation: R codes for simulating microbial network assemblages.
